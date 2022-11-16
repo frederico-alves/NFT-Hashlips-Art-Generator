@@ -1,0 +1,47 @@
+{
+  "name": "Your Collection #1",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "c210b9772d49169cd7f875a37be02499823e84b4",
+  "edition": 1,
+  "date": 1668528733339,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gradient Ivory"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Umber"
+    },
+    {
+      "trait_type": "Cape",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cardigan Gray"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tiny"
+    },
+    {
+      "trait_type": "Gadget",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wavy Reddish"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Smile"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

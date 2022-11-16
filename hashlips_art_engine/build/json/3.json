@@ -1,0 +1,47 @@
+{
+  "name": "Your Collection #3",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/3.png",
+  "dna": "c82f64d502fff7b7a1a49d793bab2b5ead37197f",
+  "edition": 3,
+  "date": 1668528734406,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gradient Lavender Mesh"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Olive"
+    },
+    {
+      "trait_type": "Cape",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crew Neck TShirt Red"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Gadget",
+      "value": "Potion Green"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Regular Light Golden Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Smile"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

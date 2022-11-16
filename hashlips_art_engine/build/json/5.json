@@ -1,0 +1,47 @@
+{
+  "name": "Your Collection #5",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "1f807312ebcdfd3f750b059566ca7782a0daaf96",
+  "edition": 5,
+  "date": 1668528735477,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gradient Green Mesh"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Olive"
+    },
+    {
+      "trait_type": "Cape",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Old School Dark"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Gadget",
+      "value": "Potion Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Regular Off Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

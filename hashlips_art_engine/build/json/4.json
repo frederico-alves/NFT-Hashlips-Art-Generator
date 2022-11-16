@@ -1,0 +1,47 @@
+{
+  "name": "Your Collection #4",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "dna": "b20ba44342462eb193d22754c2650218882e4870",
+  "edition": 4,
+  "date": 1668528734937,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gradient Gold"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Cape",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crew Neck TShirt Blue"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "Reading"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Gadget",
+      "value": "Potion Blue"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Regular Midnight Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open White Teeth"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

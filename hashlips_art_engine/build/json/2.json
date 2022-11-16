@@ -1,0 +1,47 @@
+{
+  "name": "Your Collection #2",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/2.png",
+  "dna": "f2566c08c514ceb9974c42a7332848b0aee535ad",
+  "edition": 2,
+  "date": 1668528733871,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gradient Slate"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Cape",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cardigan Deep Pink"
+    },
+    {
+      "trait_type": "Eye Wear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tiny"
+    },
+    {
+      "trait_type": "Gadget",
+      "value": "Potion Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Regular Dark Golden Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
